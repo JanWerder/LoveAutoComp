@@ -1,5 +1,5 @@
 # Project specific
-out/
+out\artifacts\LoveAutoComp_jar\LoveAutoComp.jar
 test/compiled
 target/
 
