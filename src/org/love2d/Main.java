@@ -35,7 +35,7 @@ public class Main {
     {
         if (args.length < 4)
         {
-            System.out.println("Wrong Number of Arguments. Usage: lovec input_dir output_dir bundle_identifier bundle_name [-z]\n\tinput_dir: the L?VE project\n\toutput_dir: the directory to put builds in\n\tbundle_identifier: the macosx bundle identifier ex: com.example.MyGame\n\tbundle_name: The macosx bundle name, aka, the name of your game ex: MyGame\n\tThe -z switch zips output dirs.");
+            System.out.println("Wrong Number of Arguments. Usage: lovec input_dir output_dir bundle_identifier bundle_name [-z]\n\tinput_dir: the LOVE project\n\toutput_dir: the directory to put builds in\n\tbundle_identifier: the macosx bundle identifier ex: com.example.MyGame\n\tbundle_name: The macosx bundle name, aka, the name of your game ex: MyGame\n\tThe -w switch watches the folder for changes.");
             return;
         }
 
