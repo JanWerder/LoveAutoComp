@@ -17,6 +17,7 @@ The -w switch watches the input folder for changes and recompiles on every chang
 
 ###Tests###
 
+```
 simple_compile.bat - One-Time compilitation
-
 watch_compile - Continouus compilation on every change
+```
