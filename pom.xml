@@ -1,0 +1,18 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.love2d</groupId>
+    <artifactId>LoveAutoComp</artifactId>
+    <version>1</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>1.3.2</version>
+        </dependency>
+        <dependency>
+            <groupId>net.lingala.zip4j</groupId>
+            <artifactId>zip4j</artifactId>
+            <version>1.3.2</version>
+        </dependency>
+    </dependencies>
+</project>

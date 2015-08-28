@@ -1,3 +1,9 @@
+# Project specific
+out/
+test/compiled
+target/
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
