@@ -1,7 +1,8 @@
 #LoveAutoComp
-An continouus Löve2D packaging application based upon [LoveComp](https://love2d.org/forums/viewtopic.php?f=5&t=78361&p=170932&hilit=linux+binary)
+An continouus LÃ¶ve2D packaging application based upon [LoveComp](https://love2d.org/forums/viewtopic.php?f=5&t=78361&p=170932&hilit=linux+binary)
 
-Usage: lovec Input\_dir Output\_dir bündle\_identifier bündle\_name [-w]
+```
+Usage: lovec Input_dir Output_dir bundle_identifier bundle_name [-w]
 
 input_dir: the LOVE project
 
@@ -12,7 +13,7 @@ bundle_identifier: the macosx bundle identifier ex: com.example.MyGame
 bundle_name: The macosx bundle name, aka, the name of your game ex: MyGame
 
 The -w switch watches the input folder for changes and recompiles on every change.
-
+```
 
 ###Tests###
 
